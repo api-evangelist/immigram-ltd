@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/immigram-ltd.png
-name: Immigram LTD
+name: Immigram
 description: >-
   Immigram is a UK relocation and immigration platform that helps IT specialists,
   engineers, founders, and entrepreneurs move to the United Kingdom, primarily via
@@ -87,3 +87,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: Immigram LTD
